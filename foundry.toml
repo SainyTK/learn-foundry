@@ -4,3 +4,7 @@ out = 'out'
 libs = ['lib']
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
+chain_id = 1
+eth_rpc_url = 'https://eth-mainnet.alchemyapi.io/v2/DZ0gTYxIkD_1-8cv7fHPvFa-4lmFfh9h'
+block_number = 14812830
+etherscan_api_key = 'RFCTFK66U7M2HSDMXUQGBNWN5UUHXGIHQK'
